@@ -1,4 +1,4 @@
-#Scala Lorenz Attractor
+# Scala Lorenz Attractor
 
 A simple differential equation integrator that uses Euler's method to solve a system of differential equations.
 
